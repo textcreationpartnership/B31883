@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious letter to the Parliament of Scotland. With the speech of the Marquis of Tweeddale, His Majesties High Commissioner, and the speech of the Earl of Annandale, Lord President of the Parliament. Published by authority.</title>
+            <title>Miscellaneous documents. 1695-04-17.</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31883</idno>
+            <idno type="STC">Wing W2371</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[16]</idno>
+            <idno type="STC">ESTC R205698</idno>
+            <idno type="EEBO-CITATION">99883387</idno>
+            <idno type="PROQUEST">ocm99883387</idno>
+            <idno type="VID">188559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188559)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious letter to the Parliament of Scotland. With the speech of the Marquis of Tweeddale, His Majesties High Commissioner, and the speech of the Earl of Annandale, Lord President of the Parliament. Published by authority.</title>
+                  <title>Miscellaneous documents. 1695-04-17.</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>Tweedale, John Hay, Marquess of, 1626?-1697.</author>
+                  <author>Annandale, William Johnston, Marquis of, 1664-1721.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Edinburgh, printed by the heirs and successors of Andrew Anderson. And reprinted by Edward Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>William III's letter is dated at end: the 17th day of April, 1695.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188559:1" rendition="simple:additions"/>
+            <head>His Majeſties Moſt Gracious LETTER TO THE Parliament of <hi>SCOTLAND.</hi> With the Speech of the Marquis of <hi>Tweeddale,</hi> His Majeſties High Commiſſioner: And the Speech of the Earl of <hi>Annandale,</hi> Lord Preſident of the Parliament.</head>
+            <byline>Publiſhed by Authority.</byline>
+            <div type="letter">
+               <head>
+                  <hi>His Majeſties moſt Gracious Letter to the Parliament of</hi> Scotland.</head>
+               <opener>
+                  <signed>WILLIAM R.</signed>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>THE Continuation of the War ſtill hinders Us from Purſuing Our Reſolu<g ref="char:EOLhyphen"/>tion of being amongſt you in Perſon; And ſo Obliges Us to Call you toge<g ref="char:EOLhyphen"/>ther once more in Our Abſence. Therefore We have appointed Our Right Truſty and Right In<g ref="char:EOLhyphen"/>tirely Beloved Couſin and Counſellor, <hi>John</hi> Mar<g ref="char:EOLhyphen"/>quiſs of <hi>Tweeddale,</hi> to be Our Commiſſioner, and to Repreſent Our Perſon and Authority amongſt you. The Proofs he hath given of his Capacity and Experience in Buſineſs, as well as of his Fide<g ref="char:EOLhyphen"/>lity and Zeal, by his many and long Services to the Crown and Nation, and particularly to Us, ſince We made him Our Chancellor, will Render Him very Acceptable to you. We Deſire you to give him Intire Truſt and Credit; for We have fully Inſtructed Him with Our Mind. He has Powers to paſs all ſuch Laws for the Good of that Our Antient Kingdom, as have been propoſed to Us at this Time. He is to Ask nothing of you in Our Name, but that which the Intereſt of the Countrey makes neceſſary to be Done; And there<g ref="char:EOLhyphen"/>fore We need not Mention to you, that the Sub<g ref="char:EOLhyphen"/>ſidies for Paying the Forces are now Expired, and that your Peace and Safety Requires the Renewing of them during the War. You will be alſo Sen<g ref="char:EOLhyphen"/>ſible, that there is a Neceſſity to have the Coaſt and Trade ſecured from Privateers. We are glad of any Appearances of a Diſpoſition to Mo<g ref="char:EOLhyphen"/>deration and Union, about Church-Matters; We Hope you will Encourage it, and Promote it, by removing the Subjects of Differences as much as you can.</p>
+               <p>We are not unmindful of your Letter to Us in the cloſe of the laſt Seſſion. The known Interrup<g ref="char:EOLhyphen"/>tions We have had in Buſineſs this Winter, have been a great Hinderance to Us, but We are re<g ref="char:EOLunhyphen"/>ſolved to Do whatſoever may be for the ſecurity of the Government, and the Satisfaction of Our good Subjects. We Recommend to you Calmneſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Unanimity in your Proceedings; and Doubt not, but that you'll Act ſutably to the Confidence We have put in you, in Calling you again in Our Abſence: And that as you have done upon other Occaſions ſo you will upon this, Give Us ſuch Signal Teſtimonies of your Duty and affection, as will convince all Men of the perfect Union and Underſtanding, that is betwixt Us and that Our Ancient Kingdom.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given at Our Court at</hi> Ken<g ref="char:EOLhyphen"/>ſignton, <date>
+                        <hi>the</hi> 17th <hi>Day of</hi> April, 1695. <hi>And of Our Reign the Seventh Year.</hi>
+                     </date>
+                  </dateline>
+                  <signed>By His Majeſties Command, <hi>Directed thus, J. Johnſtoun.</hi>
+                  </signed>
+               </closer>
+               <trailer>To the Lords Temporal, and the Com<g ref="char:EOLhyphen"/>miſſioners of Shires and Burghs, Aſſembled in Parliament of Our Antient Kingdom of <hi>Scotland.</hi>
+               </trailer>
+            </div>
+            <div type="speech">
+               <head>
+                  <hi>The Speech of</hi> John <hi>Marquis of</hi> Tweeddale, <hi>His Majeſties High Commiſſioner to the Parliament of</hi> Scotland; <hi>on Thurſday the ninth of</hi> May, 1695.</head>
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>THE great Confidence the King hath in your Affection and Faithfulneſs to his Go<g ref="char:EOLhyphen"/>vernment, and the Truſt he repoſes in you, doth evidently appear in His calling you ſo frequently together, during his own neceſſary Abſence be<g ref="char:EOLhyphen"/>yond Sea, as well as His tender Care and Concern for your Safety and Welfare, in minding every thing which may contribute thereto.</p>
+               <p>Particularly as to the Concerns of the Church, that all Differences about Church-Matters, and amongſt Church-Men may be compoſed; it being His Majeſties Purpoſe to maintain <hi>Preſbyterean-Go<g ref="char:EOLhyphen"/>vernment</hi> in the Church of <hi>Scotland.</hi>
+               </p>
+               <p>And that the Peace and Security of the King<g ref="char:EOLhyphen"/>dom againſt Foreign Invaſion and Inteſtine Com<g ref="char:EOLhyphen"/>motion be provided for, by renewing the former or granting other Supplies for maintaining the Land Forces, and providing and entertaining a compe<g ref="char:EOLhyphen"/>tent Naval Force for the Defenſe of the Coaſt, and ſecuring of Trade.</p>
+               <p>And if you find it will tend to the Advance<g ref="char:EOLhyphen"/>ment of Trade, that an Act be paſſed for the En<g ref="char:EOLhyphen"/>couragement of ſuch as ſhall Acquire and Eſtabliſh a Plantation in <hi>Africa</hi> or <hi>America,</hi> or any other part of the World, where Plantations may be lawfully acquired; His Majeſty is willing to De<g ref="char:EOLhyphen"/>clare, That He will grant to the Subjects of this Kingdom, in Favours of thoſe Plantations, ſuch Rights and Priviledges as he doth grant in like Caſes to the Subjects of His other Dominions.</p>
+               <p>And that the Judicatories Higher and Subal<g ref="char:EOLhyphen"/>tern be ſo Regulated in their Proceedings, as Ju<g ref="char:EOLhyphen"/>ſtice may be Adminiſtred with the greateſt Diſ<g ref="char:EOLhyphen"/>patch, and leaſt Charge to the People.</p>
+               <pb facs="tcp:188559:2"/>
+               <p>Theſe things have taken up ſome part of His Majeſties Time and Thoughts theſe Months paſt, that I have had the Honour to wait upon Him, and have been frequently Diſcourſed by Him, and then put in the Method of Inſtructions, and Di<g ref="char:EOLhyphen"/>rections for my Behaviour on the Station he hath Honoured me with.</p>
+               <p>So that I can ſay without Flattery, there is no<g ref="char:EOLhyphen"/>thing that can Contribute to promote the Honour and Jntereſt, the Safety and Security of this His Antient Kingdom, which His Majeſty will not concur with you to provide for, and hath not Impowered me to Conſent to.</p>
+               <p>It remains then, <hi>My Lords and Gentlemen,</hi> for you to take theſe weighty Affairs under Conſide<g ref="char:EOLhyphen"/>ration, and to Conſult of the beſt Ways and Means to enable His Majeſty to perfect ſo good Deſigns.</p>
+               <p>By granting Him Supplies for maintaining the preſent Land-Forces.</p>
+               <p>And for providing and Entertaining a Compe<g ref="char:EOLhyphen"/>tent Naval-force, for the Defence of the Coaſt, and Securing of Trade: In Order to which, His Majeſty hath granted a Commiſſion of Admiralty for Managing the Affairs thereof.</p>
+               <p>Not omitting to take Care for the other unavoi<g ref="char:EOLhyphen"/>dable Contingencies of the Government, wherein the Civil Liſt comes ſhort.</p>
+               <p>Your Diſpatch of theſe Great Affairs with Chearfullneſs and Alacrity, will perfect a good Underſtanding, and perpetuat a Confidence be<g ref="char:EOLhyphen"/>twixt the King and you.</p>
+            </div>
+            <div type="speech">
+               <head>
+                  <hi>The Speech of</hi> William <hi>Earl of</hi> Annandale, <hi>Lord Preſident of the Parliament of</hi> Scotland, <hi>on Thurſday the Ninth of</hi> May, 1695.</head>
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>I Am very ſenſible it is a great and undeſerved Honour, that I have His Majeſties Commands to preſide in this Seſſion of Parliament; for I know well my inſufficiency and unfitneſs, to Diſ<g ref="char:EOLhyphen"/>charge ſo important a Truſt, but Duty calls, and I muſt obey.</p>
+               <p>I do therefore rely upon His Majeſties Good<g ref="char:EOLhyphen"/>neſs, who I know, has thoſe Allowances to give, which the accidental Failings and Eſcapes of His Servants may require; And I am convinced, that the ſame Zeal and Forwardneſs which has former<g ref="char:EOLhyphen"/>ly appeared in all the Proceedings of this Parlia<g ref="char:EOLhyphen"/>ment, for His Majeſties true Intereſt, the Support and Honour of His Government, will yet ſhow it ſelf amongſt Us; and it is You I hope, will make this Station eaſie to me.</p>
+               <p>Here lies my great Encouragement and Confi<g ref="char:EOLhyphen"/>dence, that my Defects and Wants ſhall be cove<g ref="char:EOLhyphen"/>red and ſupplied, by a cheerful and ready Com<g ref="char:EOLhyphen"/>plyance from this Honourable and Great Meeting, with all His Majeſties ſo juſt and reaſonable De<g ref="char:EOLhyphen"/>mands.</p>
+               <p>And now, <hi>My Lords and Gentlemen,</hi> it may be expected that I ſhould enlarge upon every Parti<g ref="char:EOLhyphen"/>cular, which His Majeſty by His Gracious Letter, and his Grace My Lord Commiſſioner in his Speech, has recommended to you, whereby you may ſee His Majeſty asks not for himſelf, He on<g ref="char:EOLhyphen"/>ly prevents Our neceſſary Cares, for it is Our own ſafety and ſecurity that requires the diſpatch of all of them; but his Grace has ſo fully and di<g ref="char:EOLhyphen"/>ſtinctly ſpoke upon all the ſeveral Heads, and they do ſo effectually ſpeak and recommend themſelves, that I am perſwaded, there remains a Conviction upon Us all; and I ſhall but touch ſome few of them.</p>
+               <p>The firſt makes way for it ſelf, a Supply for ſub<g ref="char:EOLhyphen"/>ſiſting of the Forces which are now on foot, or what more may be judged neceſſary for preſerving and ſecuring the Peace and Quiet of this Kingdom. For let Us conſider, His Majeſty engaged in For<g ref="char:EOLhyphen"/>reign Wars againſt the Enemies of our Religion and Liberties, and that we bear no ſhare of the Expenſe.</p>
+               <p>Or if we reflect on His expoſing His Sacred Per<g ref="char:EOLhyphen"/>ſon (I may ſay too liberally) to all the Dangers and Accidents of War, upon whoſe Safety depends, God knows, not only Our happineſs, but the hap<g ref="char:EOLhyphen"/>pineſs of <hi>Europe,</hi> we muſt all as good Proteſtants, and good Countrey-Men, eſteem it Our Honour and Credit, as well as Our Intereſt, to give now cheerfully, what the Honour and Security of His Majeſties Government calls for.</p>
+               <p>And ſince We are Happy and Eaſie under it, let Us uſe our outmoſt Endeavours that this Ineſtima<g ref="char:EOLhyphen"/>ble Bleſſing may not only be continued with Us, but handed down to Our Poſterity.</p>
+               <p>I Think I need ſcarce Mind you, how much the Honour of the Nation, and Our Trade has ſuffe<g ref="char:EOLhyphen"/>red, by the Want of ſome Ships of War, for the Guard of Our Coaſts, <hi>and Convoys;</hi> This is not only our Loſs in general, but I believe many who hear Me, may be now Senſibly Touched with their own particular Loſſes; ſo that I need not Uſe Ar<g ref="char:EOLhyphen"/>guments to Enforce this, nor can I Doubt your Forwardneſs to Provide againſt It in time coming; and it is no ſmall Encouragement that Our King propoſes only thoſe Things to Us, which are Our own Advantage to Grant.</p>
+               <p>I ſhall but ſhortly take Notice of the Freſh Aſ<g ref="char:EOLhyphen"/>ſurances We have of His Majeſties Gracious and Firm Reſolutions to Maintain the <hi>Presbyterian-Go<g ref="char:EOLhyphen"/>vernment</hi> of this Church, as now by Law Eſtabliſhed; And I Hope the Moderation and Calmneſs that ſhall at this Time Appear in all Our Proceedings in Church Matters, will Satisfie the World that this is the Government moſt Agreeable to the Temper and Inclination of this People, and moſt Sutable for the Intereſt and Support of Our King, the Civil Government, and Peace of this Kingdom.</p>
+               <p>I Fear to Spend too much of your Time, and am ſenſible, You cannot Beſtow it worſe; but I Hope You'l Allow me to Wiſh, there may be Unanimi<g ref="char:EOLhyphen"/>ty b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd C<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mneſs in all Our Proceedings, and that We Abſtain from all Hea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Animoſities, laying aſide Privat Ends and Deſigns, that ſo We may with all Expedition Finiſh the Work We have before Us; and thus We ſhall not only raiſe Our Reputation Abroad, but Satisfie His Majeſtie, We Deſerve the Truſt, He hath Repoſed in Us, when He himſelf is out of <hi>Britain.</hi>
+               </p>
+               <p>And can there be a greater Inducement, or a ſtronger Argument to Encourage Us, then that We have a King; who is not only careful to Govern Us by Our ſtanding Law, but as We may ſee, has now Inſtructed His Grace, My Lord Commiſſioner, that ſuch New Laws may be Made, and Old Ones ſo Rectified; as may be Judged moſt for the Inte<g ref="char:EOLhyphen"/>reſt, Safety, and Eaſe of His Subjects.</p>
+               <p>There is yet One Thing, which I ſhall but Name, that does juſtly Challenge a more than ordinarie Zeal and Fervour in our Duty at this Time, and it is the Sad and Irreparable Loſs We have Suſtained of the Beſt of Queens, I inſiſt not upon it, for it were to Renew Your Grief, and I ſhall only Wiſh <hi>(My Lords and Gentlemen)</hi> We may All of Us make this Uſe of it, that as now the Whole Soveraign<g ref="char:EOLhyphen"/>ty is Lodged in His Majeſty, it may appear by Our Actings, that We have Doubled our For<g ref="char:EOLhyphen"/>wardneſs and Endeavours to ſerve Him, which is the only way now left Us, to Show Our Juſt Senſe of this inexpreſſible Loſs, and to make it in ſome Meaſure, more Supportable by His Majeſty.</p>
+               <p>And as We Ought to Give Him all the Aſſu<g ref="char:EOLhyphen"/>rances Imaginable, that We will Effectually Main<g ref="char:EOLhyphen"/>tain and Support His Intereſt and Government, againſt All His Enemies; So when We put a Juſt Value upon ſo great a Bleſſing, it may be a pre<g ref="char:EOLhyphen"/>vailing Mean with GOD to Continue Him long and Proſperouſly with Us.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon;</hi> And Reprinted by <hi>Edward Jones</hi> in the <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>av<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
